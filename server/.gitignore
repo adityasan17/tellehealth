@@ -1,0 +1,3 @@
+# Inside .gitignore file
+node_modules
+.env
